@@ -32,6 +32,8 @@ private boolean m_alreadyTrainedOnce=false;
  * Init the HMM
  * @param hiddenNum :the hidden state num;
  * @param obNum : the observation state num;
+ * @author: huangjin (Jeff)
+ * @email: hj51yc@gmail.com
  */
 public HMM(int hiddenNum,int obNum,boolean probNoZero)
 {
